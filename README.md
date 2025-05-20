@@ -40,6 +40,6 @@ This project utilizes Google's generative AI to generate recipes based on images
 
 ## Author
 
-FasluRahman TP
+Marwan Pookattil Abdul Kabeer
 
 
